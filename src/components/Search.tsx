@@ -3,7 +3,7 @@ import { FaSearch } from "react-icons/fa";
 
 export const Search = () => {
   return (
-    <div className="lg:w-[90%]">
+    <div className="lg:w-full mr-5">
       <div className="lg:hidden">
         <FaSearch size={24} cursor={"pointer"} />
       </div>
@@ -11,7 +11,7 @@ export const Search = () => {
         <FaSearch className="text-gray-400" size={24} cursor={"pointer"} />
         <input
           placeholder="Search for products..."
-          className="bg-[#F0F0F0] outline-none ml-3 text-[16px] font-normal w-full"
+          className="bg-[#F0F0F0] text-gray-600 outline-none ml-3 text-[16px] font-normal w-full"
           type="search"
         />
       </div>

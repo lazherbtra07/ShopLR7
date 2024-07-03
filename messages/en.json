@@ -1,0 +1,40 @@
+{
+  "hero":{
+    "title": "FIND CLOTHES THAT MATCHES YOUR STYLE",
+    "para": "Browse through our diverse range of meticulously crafted garments, designed to bring out your individuality and cater to your sense of style.",
+    "button":"Shop Now",
+    "undernum1": "International Brands",
+    "undernum2": "High-Quality Products",
+    "undernum3": "Happy Customers"
+  },
+  "footer":{
+    "stay1":"STAY UPTO DATE ABOUT",
+    "stay2":"OUR LATEST OFFERS",
+    "we1":"We have clothes that suits your",
+    "we2":"style and which you’re proud to",
+    "we3":"wear. From women to men.",
+    "email":"Enter Your Email",
+    "sub":"Subscribe to Newsletter",
+    "co":"Company",
+    "co1":"About",
+    "co2":"Features",
+    "co3":"Works",
+    "co4":"Career",
+    "he":"Help",
+    "he1":"Customer Support",
+    "he2":"Delivery Details",
+    "he3":"Terms & Conditions",
+    "he4":"Privacy Policy",
+    "fa":"FAQ",
+    "fa1":"Account",
+    "fa2":"Manage Deliveries",
+    "fa3":"Orders",
+    "fa4":"Payments",
+    "re":"Resources",
+    "re1":"Free eBooks",
+    "re2":"Development Tutorial",
+    "re3":"How to - Blog",
+    "re4":"Youtube Playlist",
+    "sh":"Shop.co © 2000-2023, All Rights Reserved"
+  }
+}

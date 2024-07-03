@@ -1,0 +1,41 @@
+{
+  "hero":{
+    "title": "TROUVEZ DES VÊTEMENTS QUI CORRESPONDENT À VOTRE STYLE",
+    "para": "Parcourez notre gamme diversifiée de vêtements méticuleusement confectionnés, conçus pour faire ressortir votre individualité et répondre à votre sens du style.",
+    "button":"Achetez maintenant",
+    "undernum1": "Marques internationales",
+    "undernum2": "Produits de haute qualité",
+    "undernum3": "Clients satisfaits"
+  },
+  "footer":{
+    "stay1":"RESTEZ À JOUR SUR",
+    "stay2":"NOS DERNIÈRES OFFRES",
+    "we1":"Nous avons des vêtements qui conviennent à votre",
+    "we2":"style et dont vous êtes fier",
+    "we3":"porter. Des femmes aux hommes.",
+    "email":"Entrez votre email",
+    "sub":"S'abonner à la newsletter",
+    "co": "Société",
+    "co1": "À propos",
+    "co2": "Caractéristiques",
+    "co3": "Travaux",
+    "co4": "Carrière",
+    "he": "Aide",
+    "he1": "Support client",
+    "he2": "Détails de la livraison",
+    "he3": "Conditions générales",
+    "he4": "Politique de confidentialité",
+    "fa": "FAQ",
+    "fa1": "Compte",
+    "fa2": "Gérer les livraisons",
+    "fa3": "Commandes",
+    "fa4": "Paiements",
+    "re": "Ressources",
+    "re1": "Livres électroniques gratuits",
+    "re2": "Tutoriel de développement",
+    "re3": "Comment faire - Blog",
+    "re4": "Liste de lecture YouTube",
+    "sh": "Shop.co © 2000-2023, Tous droits réservés"
+  }
+  
+}
